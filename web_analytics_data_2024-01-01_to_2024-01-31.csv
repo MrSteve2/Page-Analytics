@@ -1,0 +1,249 @@
+date,url,marketing_segment,page_visits,unique_visitors,return_visitors
+2024-01-01,https://example.com/product-page,Direct Traffic,107,84,44
+2024-01-01,https://example.com/product-page,Display Ads,30,21,1
+2024-01-01,https://example.com/product-page,Email Marketing,78,49,11
+2024-01-01,https://example.com/product-page,Organic Search,422,303,0
+2024-01-01,https://example.com/product-page,Paid Search,190,119,6
+2024-01-01,https://example.com/product-page,Referral,50,35,4
+2024-01-01,https://example.com/product-page,Social Media,190,136,32
+2024-01-01,https://example.com/product-page,Video Ads,20,13,0
+2024-01-02,https://example.com/product-page,Direct Traffic,139,105,33
+2024-01-02,https://example.com/product-page,Display Ads,34,22,2
+2024-01-02,https://example.com/product-page,Email Marketing,65,47,15
+2024-01-02,https://example.com/product-page,Organic Search,382,244,61
+2024-01-02,https://example.com/product-page,Paid Search,203,123,13
+2024-01-02,https://example.com/product-page,Referral,41,28,2
+2024-01-02,https://example.com/product-page,Social Media,127,77,22
+2024-01-02,https://example.com/product-page,Video Ads,18,12,0
+2024-01-03,https://example.com/product-page,Direct Traffic,115,81,20
+2024-01-03,https://example.com/product-page,Display Ads,35,25,2
+2024-01-03,https://example.com/product-page,Email Marketing,94,57,29
+2024-01-03,https://example.com/product-page,Organic Search,433,267,46
+2024-01-03,https://example.com/product-page,Paid Search,173,115,10
+2024-01-03,https://example.com/product-page,Referral,58,37,2
+2024-01-03,https://example.com/product-page,Social Media,144,110,18
+2024-01-03,https://example.com/product-page,Video Ads,23,14,0
+2024-01-04,https://example.com/product-page,Direct Traffic,166,115,28
+2024-01-04,https://example.com/product-page,Display Ads,34,20,0
+2024-01-04,https://example.com/product-page,Email Marketing,104,78,28
+2024-01-04,https://example.com/product-page,Organic Search,355,274,76
+2024-01-04,https://example.com/product-page,Paid Search,223,136,11
+2024-01-04,https://example.com/product-page,Referral,66,46,7
+2024-01-04,https://example.com/product-page,Social Media,167,124,28
+2024-01-04,https://example.com/product-page,Video Ads,19,13,0
+2024-01-05,https://example.com/product-page,Direct Traffic,153,118,61
+2024-01-05,https://example.com/product-page,Display Ads,30,19,1
+2024-01-05,https://example.com/product-page,Email Marketing,84,65,23
+2024-01-05,https://example.com/product-page,Organic Search,381,259,81
+2024-01-05,https://example.com/product-page,Paid Search,215,132,10
+2024-01-05,https://example.com/product-page,Referral,67,52,6
+2024-01-05,https://example.com/product-page,Social Media,157,123,32
+2024-01-05,https://example.com/product-page,Video Ads,27,20,0
+2024-01-06,https://example.com/product-page,Direct Traffic,82,65,38
+2024-01-06,https://example.com/product-page,Display Ads,21,12,0
+2024-01-06,https://example.com/product-page,Email Marketing,52,36,10
+2024-01-06,https://example.com/product-page,Organic Search,254,173,31
+2024-01-06,https://example.com/product-page,Paid Search,122,81,11
+2024-01-06,https://example.com/product-page,Referral,33,20,3
+2024-01-06,https://example.com/product-page,Social Media,100,70,16
+2024-01-06,https://example.com/product-page,Video Ads,16,10,0
+2024-01-07,https://example.com/product-page,Direct Traffic,77,59,19
+2024-01-07,https://example.com/product-page,Display Ads,20,14,0
+2024-01-07,https://example.com/product-page,Email Marketing,54,32,12
+2024-01-07,https://example.com/product-page,Organic Search,242,177,55
+2024-01-07,https://example.com/product-page,Paid Search,138,102,8
+2024-01-07,https://example.com/product-page,Referral,41,24,3
+2024-01-07,https://example.com/product-page,Social Media,122,88,18
+2024-01-07,https://example.com/product-page,Video Ads,16,10,0
+2024-01-08,https://example.com/product-page,Direct Traffic,126,81,19
+2024-01-08,https://example.com/product-page,Display Ads,36,27,2
+2024-01-08,https://example.com/product-page,Email Marketing,96,74,29
+2024-01-08,https://example.com/product-page,Organic Search,310,207,31
+2024-01-08,https://example.com/product-page,Paid Search,243,188,14
+2024-01-08,https://example.com/product-page,Referral,48,32,5
+2024-01-08,https://example.com/product-page,Social Media,165,125,26
+2024-01-08,https://example.com/product-page,Video Ads,21,12,0
+2024-01-09,https://example.com/product-page,Direct Traffic,142,91,30
+2024-01-09,https://example.com/product-page,Display Ads,31,20,1
+2024-01-09,https://example.com/product-page,Email Marketing,96,70,33
+2024-01-09,https://example.com/product-page,Organic Search,307,190,55
+2024-01-09,https://example.com/product-page,Paid Search,175,110,11
+2024-01-09,https://example.com/product-page,Referral,58,41,3
+2024-01-09,https://example.com/product-page,Social Media,176,128,18
+2024-01-09,https://example.com/product-page,Video Ads,25,16,1
+2024-01-10,https://example.com/product-page,Direct Traffic,156,99,57
+2024-01-10,https://example.com/product-page,Display Ads,43,34,3
+2024-01-10,https://example.com/product-page,Email Marketing,116,90,27
+2024-01-10,https://example.com/product-page,Organic Search,452,343,85
+2024-01-10,https://example.com/product-page,Paid Search,253,176,12
+2024-01-10,https://example.com/product-page,Referral,49,38,5
+2024-01-10,https://example.com/product-page,Social Media,200,131,13
+2024-01-10,https://example.com/product-page,Video Ads,22,14,0
+2024-01-11,https://example.com/product-page,Direct Traffic,118,88,42
+2024-01-11,https://example.com/product-page,Display Ads,30,21,1
+2024-01-11,https://example.com/product-page,Email Marketing,74,49,13
+2024-01-11,https://example.com/product-page,Organic Search,307,241,72
+2024-01-11,https://example.com/product-page,Paid Search,176,109,12
+2024-01-11,https://example.com/product-page,Referral,48,36,7
+2024-01-11,https://example.com/product-page,Social Media,154,96,19
+2024-01-11,https://example.com/product-page,Video Ads,19,13,0
+2024-01-12,https://example.com/product-page,Direct Traffic,104,74,15
+2024-01-12,https://example.com/product-page,Display Ads,25,18,0
+2024-01-12,https://example.com/product-page,Email Marketing,62,47,14
+2024-01-12,https://example.com/product-page,Organic Search,372,289,60
+2024-01-12,https://example.com/product-page,Paid Search,180,111,11
+2024-01-12,https://example.com/product-page,Referral,40,28,5
+2024-01-12,https://example.com/product-page,Social Media,116,80,16
+2024-01-12,https://example.com/product-page,Video Ads,15,10,0
+2024-01-13,https://example.com/product-page,Direct Traffic,129,95,34
+2024-01-13,https://example.com/product-page,Display Ads,25,19,1
+2024-01-13,https://example.com/product-page,Email Marketing,66,41,10
+2024-01-13,https://example.com/product-page,Organic Search,395,277,56
+2024-01-13,https://example.com/product-page,Paid Search,212,138,12
+2024-01-13,https://example.com/product-page,Referral,48,35,6
+2024-01-13,https://example.com/product-page,Social Media,118,71,20
+2024-01-13,https://example.com/product-page,Video Ads,19,13,0
+2024-01-14,https://example.com/product-page,Direct Traffic,103,63,24
+2024-01-14,https://example.com/product-page,Display Ads,21,14,1
+2024-01-14,https://example.com/product-page,Email Marketing,69,43,14
+2024-01-14,https://example.com/product-page,Organic Search,275,184,57
+2024-01-14,https://example.com/product-page,Paid Search,140,87,4
+2024-01-14,https://example.com/product-page,Referral,41,29,4
+2024-01-14,https://example.com/product-page,Social Media,107,82,19
+2024-01-14,https://example.com/product-page,Video Ads,17,13,0
+2024-01-15,https://example.com/product-page,Direct Traffic,146,114,31
+2024-01-15,https://example.com/product-page,Display Ads,28,21,0
+2024-01-15,https://example.com/product-page,Email Marketing,68,42,7
+2024-01-15,https://example.com/product-page,Organic Search,373,293,78
+2024-01-15,https://example.com/product-page,Paid Search,197,143,13
+2024-01-15,https://example.com/product-page,Referral,43,31,2
+2024-01-15,https://example.com/product-page,Social Media,157,123,21
+2024-01-15,https://example.com/product-page,Video Ads,23,15,0
+2024-01-16,https://example.com/product-page,Direct Traffic,157,107,37
+2024-01-16,https://example.com/product-page,Display Ads,36,22,2
+2024-01-16,https://example.com/product-page,Email Marketing,97,64,32
+2024-01-16,https://example.com/product-page,Organic Search,413,299,102
+2024-01-16,https://example.com/product-page,Paid Search,239,181,14
+2024-01-16,https://example.com/product-page,Referral,62,42,7
+2024-01-16,https://example.com/product-page,Social Media,142,106,27
+2024-01-16,https://example.com/product-page,Video Ads,21,16,0
+2024-01-17,https://example.com/product-page,Direct Traffic,113,75,35
+2024-01-17,https://example.com/product-page,Display Ads,31,21,2
+2024-01-17,https://example.com/product-page,Email Marketing,91,69,31
+2024-01-17,https://example.com/product-page,Organic Search,291,227,33
+2024-01-17,https://example.com/product-page,Paid Search,191,150,21
+2024-01-17,https://example.com/product-page,Referral,43,30,2
+2024-01-17,https://example.com/product-page,Social Media,159,115,21
+2024-01-17,https://example.com/product-page,Video Ads,19,11,0
+2024-01-18,https://example.com/product-page,Direct Traffic,127,101,35
+2024-01-18,https://example.com/product-page,Display Ads,31,23,1
+2024-01-18,https://example.com/product-page,Email Marketing,96,73,36
+2024-01-18,https://example.com/product-page,Organic Search,493,356,53
+2024-01-18,https://example.com/product-page,Paid Search,212,156,8
+2024-01-18,https://example.com/product-page,Referral,76,57,7
+2024-01-18,https://example.com/product-page,Social Media,216,160,18
+2024-01-18,https://example.com/product-page,Video Ads,24,18,0
+2024-01-19,https://example.com/product-page,Direct Traffic,113,87,25
+2024-01-19,https://example.com/product-page,Display Ads,36,22,1
+2024-01-19,https://example.com/product-page,Email Marketing,97,58,29
+2024-01-19,https://example.com/product-page,Organic Search,355,216,33
+2024-01-19,https://example.com/product-page,Paid Search,174,126,15
+2024-01-19,https://example.com/product-page,Referral,42,32,4
+2024-01-19,https://example.com/product-page,Social Media,159,125,21
+2024-01-19,https://example.com/product-page,Video Ads,24,16,0
+2024-01-20,https://example.com/product-page,Direct Traffic,90,65,20
+2024-01-20,https://example.com/product-page,Display Ads,27,19,1
+2024-01-20,https://example.com/product-page,Email Marketing,53,36,10
+2024-01-20,https://example.com/product-page,Organic Search,290,200,56
+2024-01-20,https://example.com/product-page,Paid Search,159,124,6
+2024-01-20,https://example.com/product-page,Referral,39,24,5
+2024-01-20,https://example.com/product-page,Social Media,105,82,22
+2024-01-20,https://example.com/product-page,Video Ads,14,10,0
+2024-01-21,https://example.com/product-page,Direct Traffic,110,74,43
+2024-01-21,https://example.com/product-page,Display Ads,30,22,2
+2024-01-21,https://example.com/product-page,Email Marketing,80,61,20
+2024-01-21,https://example.com/product-page,Organic Search,300,235,80
+2024-01-21,https://example.com/product-page,Paid Search,145,87,7
+2024-01-21,https://example.com/product-page,Referral,42,27,2
+2024-01-21,https://example.com/product-page,Social Media,149,118,15
+2024-01-21,https://example.com/product-page,Video Ads,21,14,0
+2024-01-22,https://example.com/product-page,Direct Traffic,180,120,29
+2024-01-22,https://example.com/product-page,Display Ads,44,34,2
+2024-01-22,https://example.com/product-page,Email Marketing,123,86,38
+2024-01-22,https://example.com/product-page,Organic Search,593,456,85
+2024-01-22,https://example.com/product-page,Paid Search,282,176,25
+2024-01-22,https://example.com/product-page,Referral,72,55,8
+2024-01-22,https://example.com/product-page,Social Media,225,145,33
+2024-01-22,https://example.com/product-page,Video Ads,24,14,0
+2024-01-23,https://example.com/product-page,Direct Traffic,174,131,46
+2024-01-23,https://example.com/product-page,Display Ads,39,26,3
+2024-01-23,https://example.com/product-page,Email Marketing,121,93,47
+2024-01-23,https://example.com/product-page,Organic Search,448,281,36
+2024-01-23,https://example.com/product-page,Paid Search,272,195,17
+2024-01-23,https://example.com/product-page,Referral,62,48,7
+2024-01-23,https://example.com/product-page,Social Media,211,164,27
+2024-01-23,https://example.com/product-page,Video Ads,28,18,1
+2024-01-24,https://example.com/product-page,Direct Traffic,183,127,59
+2024-01-24,https://example.com/product-page,Display Ads,33,20,1
+2024-01-24,https://example.com/product-page,Email Marketing,91,58,10
+2024-01-24,https://example.com/product-page,Organic Search,413,254,39
+2024-01-24,https://example.com/product-page,Paid Search,224,141,9
+2024-01-24,https://example.com/product-page,Referral,57,37,3
+2024-01-24,https://example.com/product-page,Social Media,208,132,22
+2024-01-24,https://example.com/product-page,Video Ads,23,15,0
+2024-01-25,https://example.com/product-page,Direct Traffic,115,73,25
+2024-01-25,https://example.com/product-page,Display Ads,29,21,2
+2024-01-25,https://example.com/product-page,Email Marketing,87,62,18
+2024-01-25,https://example.com/product-page,Organic Search,431,312,45
+2024-01-25,https://example.com/product-page,Paid Search,253,198,11
+2024-01-25,https://example.com/product-page,Referral,54,40,3
+2024-01-25,https://example.com/product-page,Social Media,150,114,28
+2024-01-25,https://example.com/product-page,Video Ads,22,15,0
+2024-01-26,https://example.com/product-page,Direct Traffic,115,89,38
+2024-01-26,https://example.com/product-page,Display Ads,37,25,1
+2024-01-26,https://example.com/product-page,Email Marketing,97,73,25
+2024-01-26,https://example.com/product-page,Organic Search,390,275,51
+2024-01-26,https://example.com/product-page,Paid Search,206,139,7
+2024-01-26,https://example.com/product-page,Referral,47,33,5
+2024-01-26,https://example.com/product-page,Social Media,158,101,16
+2024-01-26,https://example.com/product-page,Video Ads,20,13,0
+2024-01-27,https://example.com/product-page,Direct Traffic,51,39,9
+2024-01-27,https://example.com/product-page,Display Ads,16,12,0
+2024-01-27,https://example.com/product-page,Email Marketing,39,26,13
+2024-01-27,https://example.com/product-page,Organic Search,204,147,27
+2024-01-27,https://example.com/product-page,Paid Search,82,51,3
+2024-01-27,https://example.com/product-page,Referral,20,13,2
+2024-01-27,https://example.com/product-page,Social Media,63,40,6
+2024-01-27,https://example.com/product-page,Video Ads,8,5,0
+2024-01-28,https://example.com/product-page,Direct Traffic,96,69,21
+2024-01-28,https://example.com/product-page,Display Ads,24,14,1
+2024-01-28,https://example.com/product-page,Email Marketing,78,49,16
+2024-01-28,https://example.com/product-page,Organic Search,338,241,46
+2024-01-28,https://example.com/product-page,Paid Search,209,133,10
+2024-01-28,https://example.com/product-page,Referral,47,28,3
+2024-01-28,https://example.com/product-page,Social Media,137,96,14
+2024-01-28,https://example.com/product-page,Video Ads,17,12,0
+2024-01-29,https://example.com/product-page,Direct Traffic,196,124,28
+2024-01-29,https://example.com/product-page,Display Ads,36,22,2
+2024-01-29,https://example.com/product-page,Email Marketing,122,87,40
+2024-01-29,https://example.com/product-page,Organic Search,507,352,80
+2024-01-29,https://example.com/product-page,Paid Search,262,205,27
+2024-01-29,https://example.com/product-page,Referral,59,44,4
+2024-01-29,https://example.com/product-page,Social Media,248,154,37
+2024-01-29,https://example.com/product-page,Video Ads,29,20,0
+2024-01-30,https://example.com/product-page,Direct Traffic,141,109,38
+2024-01-30,https://example.com/product-page,Display Ads,37,23,2
+2024-01-30,https://example.com/product-page,Email Marketing,107,83,32
+2024-01-30,https://example.com/product-page,Organic Search,533,361,118
+2024-01-30,https://example.com/product-page,Paid Search,258,174,16
+2024-01-30,https://example.com/product-page,Referral,56,44,7
+2024-01-30,https://example.com/product-page,Social Media,182,136,27
+2024-01-30,https://example.com/product-page,Video Ads,27,19,1
+2024-01-31,https://example.com/product-page,Direct Traffic,105,80,20
+2024-01-31,https://example.com/product-page,Display Ads,32,23,1
+2024-01-31,https://example.com/product-page,Email Marketing,79,59,13
+2024-01-31,https://example.com/product-page,Organic Search,336,218,67
+2024-01-31,https://example.com/product-page,Paid Search,169,120,15
+2024-01-31,https://example.com/product-page,Referral,46,34,6
+2024-01-31,https://example.com/product-page,Social Media,179,119,31
+2024-01-31,https://example.com/product-page,Video Ads,18,12,0
